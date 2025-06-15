@@ -62,4 +62,3 @@ The project implements a distributed storage system in Java, comprising a centra
 - Java networking and concurrency (TCP, sockets, multi-threading)
 - Client-server and distributed objects design
 - Robust error handling and fault-tolerant distributed systems
-- Automated file replication, balancing, and rebalancing
